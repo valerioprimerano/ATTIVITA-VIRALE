@@ -1,0 +1,13 @@
+{
+ "_esempio": {
+  "licenze": [1, 4],
+  "insegna": "Nome sull'insegna",
+  "colore": "#2445D6",
+  "posti": 2,
+  "verificata": false,
+  "descrizione": "Solo per le attività vere verificate",
+  "promo_fino": "2026-11-10T21:00:00+01:00",
+  "soci": [],
+  "storie": []
+ }
+}
